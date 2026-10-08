@@ -1,9 +1,9 @@
 ﻿# Operació NordTec - Sofia Moreno Trelles (ASIX 1A)
 
-# INDEX:
+## INDEX:
 
 - [Operació NordTec - Sofia Moreno Trelles (ASIX 1A)](#operació-nordtec---sofia-moreno-trelles-asix-1a)
-- [INDEX:](#index)
+  - [INDEX:](#index)
   - [Estat del projecte](#estat-del-projecte)
     - [Que s'ha fet](#que-sha-fet)
     - [Què esta pendent?](#què-esta-pendent)
