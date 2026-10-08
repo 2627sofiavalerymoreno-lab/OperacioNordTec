@@ -1,11 +1,10 @@
-﻿# OperacioNordTec
-# Sofia Moreno Trelles    ASIX 1A
+﻿# OperacioNordTec   Sofia Moreno Trelles    ASIX 1A
 
-## INDEX:
 
-- [OperacioNordTec](#operacionordtec)
-- [Sofia Moreno Trelles    ASIX 1A](#sofia-moreno-trelles----asix-1a)
-  - [INDEX:](#index)
+# INDEX:
+
+- [OperacioNordTec   Sofia Moreno Trelles    ASIX 1A](#operacionordtec---sofia-moreno-trelles----asix-1a)
+- [INDEX:](#index)
   - [Estat del projecte](#estat-del-projecte)
     - [Que s'ha fet](#que-sha-fet)
     - [Què esta pendent?](#què-esta-pendent)
